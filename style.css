@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #cccccc;
+}
+
+#container{
+    height: 200px;
+    width: 500px;
+    border: 10px solid orange;
+    margin: 50px auto;
+    background-color: #ffffff;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+#number{
+    height: 38px;
+    width: 100px;
+    margin: 50px 50px;
+    border: 1px solid purple;
+    text-align: center;
+    background-color: white;
+    position: relative; left: 25%; bottom: 36%;
+    
+}
+#increment{
+    height: 40px;
+    width: 100px;
+    margin-top: 1.5px;
+    margin-left: 300px;
+    position: relative; bottom: 82%; right: 4.8%;
+}
+#decrement{
+    height: 40px;
+    width: 100px;
+    margin-top: 70px;
+    margin-left: 75.5px;
+    position: relative; top: 9%;
+}
